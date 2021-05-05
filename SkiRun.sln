@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1340
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkiRun", "SkiRun\SkiRun.csproj", "{20097332-2576-4C7D-B905-63ADD86410A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20097332-2576-4C7D-B905-63ADD86410A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20097332-2576-4C7D-B905-63ADD86410A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20097332-2576-4C7D-B905-63ADD86410A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20097332-2576-4C7D-B905-63ADD86410A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E98D1017-201D-4CDB-B4F2-9F669E1DCD7D}
+	EndGlobalSection
+EndGlobal
