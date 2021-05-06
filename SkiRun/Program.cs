@@ -1,4 +1,7 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
 
 namespace SkiRun
 {
@@ -6,10 +9,9 @@ namespace SkiRun
     {
         static void Main(string[] args)
         {
+            BusinessCalculateRoute BusinessCalculateRoute = new BusinessCalculateRoute();
 
-
-            Console.WriteLine("Hello World!");
-            Console.ReadLine();
+            BusinessCalculateRoute.GetBestRoute();
         }
     }
 }
